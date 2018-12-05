@@ -1,5 +1,5 @@
 # ZPWKWebViewDemo
-本Demo主要介绍如何使用WKWebView控件。
+本Demo主要介绍如何使用WKWebView控件(original)。
 
 苹果在iOS 8以后推出了WKWebView控件，用来取代UIWebView控件，所以对于不用适配iOS 8的APP可以采用WKWebView来显示网页。
 
